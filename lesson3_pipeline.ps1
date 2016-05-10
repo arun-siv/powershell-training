@@ -1,5 +1,5 @@
 ﻿@"
-OBJECTS OF POWERSHELL ARE FILTERABLE , SORTABLE  , FILTERABLE AND FORMATABLE
+OBJECTS OF POWERSHELL ARE FILTERABLE , SORTABLE  , SELECTABLE AND FORMATABLE
 get-service | select name , status
 
 we also studied about where , select , format , and how to include custom properties
