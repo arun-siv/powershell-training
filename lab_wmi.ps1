@@ -1,8 +1,22 @@
-﻿#wmi 
+﻿$continue = $false
 
-$result = 'localhost' | 
+$result = 'aBC'  | 
             foreach {
-            $server = Get-WmiObject -Class win32_computerSystem -ComputerName $_
+            $srv = $_
+
+            try {
+                $server = Get-WmiObject -ea stop -Class win32_computerSystem -ComputerName $srv
+                $continue = $true
+
+            } catch {
+
+             "Failed to get wmi for $srv"
+              
+
+            }
+
+            if($continue){
+
             $cpu = Get-WmiObject -class win32_Processor -ComputerName $_ | select -First 1
             $os = Get-WmiObject -Class win32_operatingSystem -ComputerName $_
             
@@ -28,5 +42,9 @@ $result = 'localhost' |
             $system.Cores = $server.NumberOfProcessors
             }
             New-Object -TypeName PSObject -Property $system
+            
+            
+            }
+            
 
             }
