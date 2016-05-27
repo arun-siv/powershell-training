@@ -1,6 +1,6 @@
 ﻿$continue = $false
 
-$result = 'aBC'  | 
+$result = 'ddd'  | 
             foreach {
             $srv = $_
 
