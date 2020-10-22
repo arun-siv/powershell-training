@@ -1,0 +1,489 @@
+Customer,Track,Onsitesite_Offsiteshore,Level,Number
+Fedex,Monitoring-Tower Lead,Offsite,L4,1
+Fedex,Monitoring-IOC,Offsite,L2,8
+Fedex,Governance-GIT,Offsite,L3,1
+Fedex,Messaging-Exchange,Onsite,L3,1
+Fedex,Voice-Legacy Voice,Onsite,L3,1
+Fedex,Tools-Schedule Mgmt,Offsite,L1,2
+Fedex,Tools-Software Distribution,Offsite,L1,2
+Fedex,Service Desk-Service Desk,Onsite,L1,113
+Fedex,Database-EFS,Onsite,L3,1
+Fedex,Database-Tower Lead,Onsite,L4,1
+Fedex,Tools-Capacity Mgmt,Offsite,L2,1
+Fedex,Middleware-Track Lead,Offsite,L2,1
+Fedex,Voice-Cisco,Offsite,L3,2
+Fedex,Tools-Tower Lead,Onsite,L4+,1
+Fedex,governance-others,Offsite,L1,1
+Fedex,Voice-Track Lead,Offsite,L3,1
+Fedex,governance-Management,Onsite,L4,1
+Fedex,Tools-Schedule Mgmt,Offsite,L2,4
+Fedex,Service Desk-Tower Lead,Onsite,L4,1
+Fedex,Service Desk-Service Desk,Onsite,L2,17
+Fedex,Monitoring-NOC,Onsite,TP,6
+Fedex,Rhythm-Rhythm,Offsite,L1,7
+Fedex,Monitoring-Track Lead,Offsite,L3,2
+Fedex,Database-Oracle,Offsite,TP,6
+Fedex,Monitoring-IOC,Onsite,TP,4
+Fedex,Messaging-Exchange,Offsite,L3,2
+Fedex,SSB-Storage,Offsite,L2,6
+Fedex,Monitoring-IOC,Offsite,TP,13
+Fedex,Monitoring-IOC,Offsite,L3,1
+Fedex,Tools-Track Lead,Offsite,L2,3
+Fedex,Voice-Legacy Voice,Offsite,L2,3
+Fedex,SSB-Track Lead,Offsite,L2,1
+Fedex,SSB-Storage,Offsite,L3,2
+Fedex,Voice-Network Engineer,Onsite,L2,1
+Fedex,SSB-Track Lead,Offsite,L3,2
+Fedex,Voice-Cisco,Offsite,L1,2
+Fedex,Tools-SNOW,Onsite,L3,2
+Fedex,Database-Oracle,Offsite,L2,9
+Fedex,Database-Sybase,Onsite,L2,1
+Fedex,Messaging-Sharepoint,Offsite,L2,1
+Fedex,Voice-Cisco,Onsite,L3,3
+Fedex,Monitoring-NOC,Offsite,L3,3
+Fedex,Monitoring-IOC,Offsite,L1,37
+Fedex,Tools-Capacity Mgmt,Offsite,L1,2
+Fedex,SSB-Ground Support,Onsite,TP,4
+Fedex,Monitoring-NOC,Offsite,L2,15
+Fedex,Service Desk-Service Desk,Onsite,L3,4
+Fedex,Tools-Capacity Mgmt,Onsite,TP,1
+Fedex,Database-MSSQL,Offsite,L2,4
+Fedex,Service Desk-Deskside Support,Onsite,L2,7
+Fedex,governance-others,Onsite,L3,1
+Fedex,Database-EBS,Offsite,L3,2
+Fedex,Rhythm-Rhythm,Offsite,L2,2
+Fedex,Database-Oracle,Onsite,L3,1
+Fedex,Tools-SNOW,Onsite,TP,1
+Fedex,Service Desk-Track Lead,Onsite,L2,1
+Fedex,Middleware-Tower Lead,Onsite,L4,1
+Fedex,SSB-LINUX,Onsite,L3,1
+Fedex,Tools-SNOW,Offsite,L2,5
+Fedex,Database-MSSQL,Onsite,L3,1
+Fedex,Monitoring-NOC,Offsite,TP,5
+Fedex,Tools-SNOW,Offsite,L3,1
+Fedex,Governance-Infosec,Offsite,L3,1
+Fedex,Database-EFS,Onsite,TP,1
+Fedex,Messaging-AppOps,Offsite,L1,1
+Fedex,Monitoring-Track Lead,Offsite,L2,3
+Fedex,governance-SDM,Offsite,L4,2
+Fedex,Database-Oracle,Onsite,TP,2
+Fedex,Database-Sybase,Offsite,L2,1
+Fedex,SSB-Tower Lead,Onsite,L3,1
+Fedex,Database-EBS,Offsite,L1,1
+Fedex,Voice-Legacy Voice,Onsite,TP,4
+Fedex,Database-EBS,Offsite,L2,3
+Fedex,Monitoring-IOC,Onsite,L2,5
+Fedex,governance-PMO,Offsite,L2,2
+Fedex,Database-Sybase,Offsite,L1,1
+Fedex,SSB-LINUX,Offsite,L2,13
+Fedex,Service Desk-Service Desk,Onsite,TP,20
+Fedex,Monitoring-NOC,Offsite,L1,16
+Fedex,SSB-LINUX,Offsite,L3,1
+Fedex,Tools-SNOW,Offsite,L1,1
+Fedex,Database-Oracle,Offsite,L1,2
+Fedex,Database-Oracle,Offsite,L3,4
+Fedex,Messaging-AppOps,Onsite,TP,1
+Fedex,Database-People Soft,Onsite,TP,1
+Fedex,Database-Track Lead,Onsite,L3,1
+Fedex,SSB-LINUX,Offsite,TP,1
+Fedex,Database-Track Lead,Offsite,L3,2
+Fedex,Monitoring-NOC,Onsite,L2,1
+Fedex,Tools-Track Lead,Offsite,L4,1
+Fedex,Tools-Schedule Deployment,Offsite,L1,1
+Fedex,Tools-Track Lead,Onsite,TP,1
+Fedex,Messaging-Mobility,Onsite,TP,3
+Fedex,Voice-Cisco,Onsite,TP,1
+Fedex,Monitoring-Track Lead,Onsite,L3,1
+Fedex,Messaging-Exchange,Offsite,L2,4
+Fedex,Voice-Cisco,Offsite,L2,9
+Fedex,Tools-Schedule Deployment,Onsite,L1,1
+Fedex,Service Desk-Track Lead,Onsite,L3,3
+Fedex,Database-MSSQL,Offsite,L1,1
+Fedex,SSB-Backup,Offsite,L1,1
+Fedex,Messaging-Track Lead,Offsite,L2,2
+Fedex,SSB-Storage,Onsite,L3,1
+Fedex,Tools-Track Lead,Onsite,L3,1
+Fedex,Database-EBS,Offsite,TP,1
+Fedex,SSB-LINUX,Offsite,L1,1
+Fedex,Tools-Software Distribution,Offsite,L2,1
+Fedex,Tools-HPAM,Onsite,TP,2
+Fedex,Messaging-Mobility,Offsite,L2,2
+Fedex,SSB-Backup,Offsite,L2,4
+Fedex,SSB-Storage,Offsite,TP,1
+Fedex,Messaging-Sharepoint,Onsite,L3,1
+Fedex,Tools-Software Distribution,Onsite,L3,1
+Fedex,Messaging-Tower Lead,Offsite,L3,1
+Fedex,Database-MSSQL,Offsite,TP,2
+Fedex,governance-PMO,Offsite,L1,3
+Fedex,Messaging-Exchange,Offsite,L1,3
+Fedex,SSB-Storage,Offsite,L1,2
+Fedex,Voice-Legacy Voice,Onsite,L2,1
+Fedex,Voice-Tower Lead,Onsite,L4,1
+Fedex,governance-Management,Onsite,L4+,2
+Fedex,governance-Management,Offsite,L4+,1
+Fedex,SSB-Backup,Offsite,TP,1
+Fedex,Monitoring-IOC,Offsite,L4,0
+Fedex,Rhythm-Rhythm,Offsite,TP,1
+Cummins,Windows & Citrix,Offshore,L2,20
+Cummins,Manufacturing,Offshore,L1,6
+Cummins,SW Certification Coordinator,Onsite,L1,1
+Cummins,Security & AV,Onsite,L3,1
+Cummins,VoIP,Offshore,L2,6
+Cummins,LAN,Onsite,TP,1
+Cummins,Collaboration,Offshore,L3,3
+Cummins,Telecom,Onsite,L2,3
+Cummins,Security & AV,Offshore,L1,2
+Cummins,Hosting Integration,Onsite,L3,3
+Cummins,Server Provisioning,Offshore,L2,5
+Cummins,Helpdesk,Onsite,L1,38
+Cummins,Helpdesk - KM,Offshore,L2,1
+Cummins,Telecom,Offshore,Service Delivery,1
+Cummins,Unix,Offshore,L2,10
+Cummins,Quality and Complaince,Offshore,L2,1
+Cummins,Windows & Citrix,Offshore,L1,4
+Cummins,Application Packaging,Onsite,L2,1
+Cummins,Collaboration,Offshore,L2,12
+Cummins,Helpdesk - IM,Offshore,L2,1
+Cummins,Rhythm App Hosting-DC,Offshore,TP,5
+Cummins,Internet & Firewall,Offshore,L1,3
+Cummins,Web,Onsite,L3,2
+Cummins,WAN,Onsite,L3,1
+Cummins,SCCM,Offshore,L2,5
+Cummins,Tools,Offshore,Service Delivery,1
+Cummins,Manufacturing,Offshore,L3,4
+Cummins,Web,Offshore,L1,3
+Cummins,Tools,Offshore,L3,5
+Cummins,Remedy,Offshore,L1,7
+Cummins,DC Ops,Onsite,L3,2
+Cummins,Service Delivery Team,Onsite,L4,2
+Cummins,Helpdesk,Offshore,L3,2
+Cummins,Deskside support,Onsite,L3,2
+Cummins,GAM,Offshore,L2,6
+Cummins,Database,Offshore,L1,3
+Cummins,Helpdesk,Offshore,L1,49
+Cummins,Projects,Onsite,TP,5
+Cummins,Collaboration,Onsite,L3,1
+Cummins,Local Desktop Support,Onsite,L3,2
+Cummins,Hosting Integration,Offshore,L3,2
+Cummins,Telecom,Onsite,TP,1
+Cummins,Appworx,Offshore,TP,6
+Cummins,Governance,Offshore,L3,1
+Cummins,Windows & Citrix,Onsite,L3,2
+Cummins,EN Projects,Offshore,L4,10
+Cummins,LAN,Offshore,L2,5
+Cummins,Manufacturing,Offshore,TP,1
+Cummins,Internet & Firewall,Offshore,L3,1
+Cummins,WAN,Offshore,L2,10
+Cummins,DC Ops,Onsite,L2,5
+Cummins,VoIP,Offshore,L1,1
+Cummins,Hosting Integration,Offshore,L1,2
+Cummins,Governance,Offshore,L1,2
+Cummins,Deskside support,Onsite,L1,8
+Cummins,Web,Offshore,L2,5
+Cummins,Database,Offshore,L2,17
+Cummins,Remedy,Offshore,L2,9
+Cummins,Projects,Offshore,L3,1
+Cummins,Rhythm App Hosting-DC,Offshore,L2,4
+Cummins,RDS,Offshore,L1,2
+Cummins,AS/400,Offshore,L1,3
+Cummins,Service Delivery Team,Onsite,L7,1
+Cummins,Release Management,Onsite,TP,2
+Cummins,LAN,Offshore,TP,5
+Cummins,Helpdesk - KM,Offshore,L1,2
+Cummins,Local Desktop Support,Onsite,L1,8
+Cummins,Unix,Offshore,Service Delivery,1
+Cummins,WAN,Offshore,TP,10
+Cummins,VoIP,Offshore,Service Delivery,1
+Cummins,MyCloud,Offshore,L3,1
+Cummins,CFA,Offshore,L2,5
+Cummins,Quality and Complaince,Offshore,L1,2
+Cummins,Remedy,Offshore,Service Delivery,1
+Cummins,Service Delivery Team,Offshore,L4,1
+Cummins,Rhythm App Hosting-DC,Offshore,Service Delivery,1
+Cummins,Rhythm App Hosting-DC,Offshore,L1,30
+Cummins,Asset Management,Offshore,L1,3
+Cummins,MFG - Site Support,Onsite,L3,1
+Cummins,RDS,Offshore,L2,22
+Cummins,LAN,Offshore,L1,1
+Cummins,AS/400,Onsite,L3,1
+Cummins,Tools,Offshore,L1,4
+Cummins,Tools,Offshore,TP,1
+Cummins,Windows & Citrix,Offshore,L3,7
+Cummins,Web,Offshore,L3,6
+Cummins,Windows & Citrix,Onsite,L1,1
+Cummins,Local Desktop Support,Onsite,L2,16
+Cummins,Security & AV,Offshore,L3,4
+Cummins,Internet & Firewall,Offshore,Service Delivery,1
+Cummins,Helpdesk - KM,Offshore,Service Delivery,1
+Cummins,GAM,Offshore,Service Delivery,1
+Cummins,AS/400,Offshore,L3,1
+Cummins,Local Desktop Support,Onsite,TP,4
+Cummins,WAN,Offshore,Service Delivery,1
+Cummins,EN Projects,Onsite,L4,2
+Cummins,Unix,Offshore,L1,4
+Cummins,Quality and Complaince,Offshore,Service Delivery,1
+Cummins,CFA,Offshore,L1,1
+Cummins,Unix,Onsite,TP,1
+Cummins,Projects,Onsite,L3,5
+Cummins,Helpdesk,Offshore,L2,3
+Cummins,Unix,Offshore,L3,3
+Cummins,Helpdesk - IM,Offshore,Service Delivery,1
+Cummins,Collaboration,Offshore,Service Delivery,1
+Cummins,Service Delivery Team,Onsite,L3,2
+Cummins,Manufacturing,Offshore,L2,5
+Cummins,IDM,Onsite,TP,2
+Cummins,Remedy,Onsite,TP,1
+Cummins,DC Ops,Onsite,L1,6
+Cummins,Web,Offshore,Service Delivery,1
+Cummins,Application Packaging,Offshore,L2,4
+Cummins,Application Packaging,Offshore,L1,1
+Cummins,Helpdesk,Offshore,Service Delivery,1
+Cummins,Unix,Offshore,TP,1
+Cummins,WAN,Offshore,L1,5
+Cummins,Deskside support,Onsite,L2,3
+Cummins,Helpdesk,Offshore,TP,3
+Cummins,Deskside support,Onsite,TP,3
+Cummins,Appworx,Offshore,L1,1
+Cummins,Security & AV,Offshore,L2,1
+Cummins,Server Provisioning,Offshore,L1,4
+Cummins,Helpdesk,Onsite,L2,2
+Cummins,Database,Offshore,Service Delivery,1
+Cummins,Server Provisioning,Offshore,TP,1
+Cummins,Remedy,Offshore,TP,1
+Cummins,GAM,Offshore,L1,6
+Cummins,Unix,Onsite,L3,2
+Cummins,Remedy,Offshore,L3,3
+Cummins,Database,Offshore,L3,5
+Cummins,Application Packaging,Offshore,Service Delivery,1
+Cummins,Appworx,Offshore,Service Delivery,1
+Cummins,Helpdesk - IM,Offshore,L1,6
+Cummins,MFG - Site Support,Onsite,L2,3
+Cummins,LAN,Offshore,Service Delivery,1
+Cummins,Collaboration,Offshore,L1,5
+Cummins,SW Certification Coordinator,Onsite,L2,5
+Cummins,Internet & Firewall,Offshore,L2,2
+Cummins,Hosting Integration,Offshore,L2,8
+Cummins,Tools,Offshore,L2,5
+Cummins,Telecom,Onsite,L1,1
+Cummins,DC Ops,Onsite,TP,2
+Cummins,Appworx,Offshore,L2,3
+Cummins,VoIP,Offshore,L3,3
+Cummins,Projects,Onsite,L2,1
+Cummins,AS/400,Offshore,Service Delivery,1
+Cummins,Hosting Integration,Onsite,L4,1
+Cummins,Service Delivery Team,Onsite,L6,1
+Cummins,AS/400,Offshore,L2,3
+Cummins,Local Desktop Support,Offshore,Service Delivery,1
+Cummins,WAN,Offshore,L3,3
+Cummins,Sharepoint,Onsite,L3,1
+Cummins,Database,Offshore,TP,2
+Cummins,Server Provisioning,Offshore,L3,2
+Cummins,Windows & Citrix,Offshore,Service Delivery,1
+Cummins,LAN,Offshore,L3,4
+Cummins,LAN,Onsite,L2,1
+Cummins,Windows & Citrix,Offshore,TP,3
+Cummins,Projects,Offshore,L2,1
+Cummins,Hosting Integration,Onsite,L2,1
+Anthem,Projects,Offshore,L3,1
+Anthem,Governance,Onsite,L4,4
+Anthem,Projects,Onsite,Service Delivery,1
+Anthem,Service Desk,Onsite,L2,35
+Anthem,Projects,Onsite,L3,1
+Anthem,Field Services,Onsite,L1,95
+Anthem,HAM&SAM,Offshore,L2,3
+Anthem,Field Services,Onsite,Service Delivery,1
+Anthem,CFS,Offshore,L3,3
+Anthem,HAM&SAM,Offshore,L3,1
+Anthem,Service Desk,Onsite,L1,300
+Anthem,CFS,Onsite,L2,3
+Anthem,CFS,Offshore,Service Delivery,1
+Anthem,Service Desk,Offshore,L1,46
+Anthem,CFS,Offshore,L2,2
+Anthem,Service Desk,Offshore,L2,3
+Anthem,HAM&SAM,Onsite,L2,8
+Anthem,CFS,Onsite,L3,2
+Anthem,Management,Offshore,L3,3
+Anthem,PMO,Offshore,Service Delivery,1
+Anthem,PMO,Onsite,Service Delivery,1
+Anthem,Service Desk,Onsite,L3,2
+Anthem,Management,Offshore,L2,3
+Anthem,Service Desk,Onsite,Service Delivery,1
+Anthem,Field Services,Onsite,L3,19
+Anthem,Field Services,Onsite,L2,40
+CE,Application Packaging,Offsite,L1,1
+CE,Application Packaging,Offsite,L2,2
+CE,Application Packaging,Onsite,L3,1
+CE,Back up,Offsite,L1,2
+CE,Back up,Offsite,L2,1
+CE,Back up,Offsite,L3,2
+CE,Back up,Onsite,L3,1
+CE,Citrix,Offsite,L3,1
+CE,DC OPS,Onsite,L2,4
+CE,Domino DOC,Offsite,L2,1
+CE,DOT,Onsite,L1,2
+CE,DOT,Onsite,L2,7
+CE,Exchange,Offsite,L2,1
+CE,IOMC,Offsite,L1,6
+CE,IOMC,Offsite,L2,2
+CE,IOMC,Offsite,Third Party L1,2
+CE,IOMC,Onsite,L3,1
+CE,Lync,Offsite,L3,1
+CE,Messaging,Offsite,L2,1
+CE,Messaging,Offsite,L3,1
+CE,Messaging,Onsite,L3,1
+CE,Network Data,Offsite,L1,1
+CE,Network Data,Offsite,L2,2
+CE,Network Data,Offsite,L3,3
+CE,Network Voice,Offsite,L2,1
+CE,Network Voice,Onsite,L2,1
+CE,Network Voice,Onsite,L3,2
+CE,Oracle,Offsite,L3,2
+CE,Oracle,Offsite,Third Party E0,1
+CE,Oracle,Onsite,L3,1
+CE,PMO,Offsite,L1,1
+CE,PMO,Offsite,L2,1
+CE,PMO,Onsite,L2,1
+CE,Process,Offsite,L1,1
+CE,Process,Offsite,L2,2
+CE,Process,Offsite,L3,1
+CE,Program Manager,Onsite,L2,1
+CE,Remote Takeover,Offsite,L2,6
+CE,Remote Takeover,Onsite,L1,1
+CE,SAC,Onsite,L1,4
+CE,SAC,Onsite,L2,4
+CE,SAC,Onsite,L3,1
+CE,SDM,Offsite,L3,1
+CE,SDM,Offsite,L4,1
+CE,SDM,Onsite,L5,1
+CE,Service Desk,Offsite,L1,6
+CE,Service Desk,Offsite,Third Party L1,1
+CE,Service Desk,Onsite,L1,14
+CE,Service Desk,Onsite,L2,5
+CE,Sharepoint,Offsite,L2,1
+CE,Sharepoint,Offsite,L3,1
+CE,Sharepoint,Offsite,Third Party E0,1
+CE,SNOW,Offsite,L2,1
+CE,Software Distribution,Offsite,L2,2
+CE,SQL,Offsite,L2,1
+CE,SQL,Offsite,Third Party E0,1
+CE,SQL,Onsite,L3,1
+CE,Storage,Offsite,L3,1
+CE,Storage,Onsite,L3,2
+CE,TEM,Offsite,L2,2
+CE,Tools,Offsite,L1,1
+CE,Tools,Offsite,L2,3
+CE,Tools,Offsite,L3,1
+CE,Unix,Offsite,L1,1
+CE,Unix,Offsite,L2,1
+CE,Unix,Offsite,L3,2
+CE,Unix,Onsite,Third Party L3,1
+CE,Vmware,Offsite,L2,1
+CE,Vmware,Offsite,L3,1
+CE,Wintel,Offsite,L2,5
+CE,Wintel,Offsite,L3,2
+CE,Wintel,Offsite,Third Party E0,1
+CE,Wintel,Offsite,Third Party L1,1
+CE,Wintel,Onsite,L3,2
+RFIH,Citrix,Offshore,L1,2
+RFIH,Citrix,Offshore,L2,5
+RFIH,Citrix,Offshore,L3,1
+RFIH,Citrix,Onsite,L3,2
+RFIH,Compliance,Offshore,L2,1
+RFIH,Compliance,Offshore,L3,1
+RFIH,PMO,Offshore,L2,1
+RFIH,Process,Offshore,L1,1
+RFIH,Service Delivery,Offshore,L4,1
+RFIH,Service Delivery,Onsite,L4,1
+RFIH,Tools & Opsware,Offshore,L2,3
+RFIH,Tools & Opsware,Offshore,L3,2
+RFIH,Tools & Opsware,Onsite,L3,1
+RFIH,Unix,Offshore,L1,10
+RFIH,Unix,Offshore,L2,22
+RFIH,Unix,Offshore,L3,11
+RFIH,Unix,Onsite,L3,3
+RFIH,Wintel,Offshore,L1,11
+RFIH,Wintel,Offshore,L2,21
+RFIH,Wintel,Offshore,L3,6
+RFIH,Wintel,Onsite,L3,1
+GEHC,CCT,Offshore,E0,3
+GEHC,CCT,Offshore,E1,12
+GEHC,CCT,Offshore,E2,3
+GEHC,Windows,Offshore,E1,8
+GEHC,Windows,Offshore,E2,10
+GEHC,Windows,Onsite,E2,1
+GEHC,Windows,Offshore,E3,5
+GEHC,Unix,Offshore,E1,10
+GEHC,Unix,Offshore,E2,12
+GEHC,Unix,Onsite,E2,1
+GEHC,Unix,Offshore,E3,2
+GEHC,Unix,Onsite,E3,1
+GEHC,Process,Offshore,E2,1
+GEHC,Process,Offshore,E3,1
+GEHC,Citrix,Offshore,E2,6
+GEHC,Storage,Offshore,E3,1
+GEHC,PMO,Offshore,E1,1
+GEHC,RDU SPOC,Offshore,E4,1
+GEHC,SDM,Offshore,E4,1
+GEHC,SDM,Onsite,E4,1
+SCJ,EMS/PCS Manager,Offshore,L3,1
+SCJ,Exchange,Offshore,L2,1
+SCJ,CMDB/CM (T&M),Offshore,L1,2
+SCJ,DISO,Offshore,L3,1
+SCJ,Sharepoint,Offshore,L2,2
+SCJ,Sharepoint,Offshore,L4,1
+SCJ,SNOW ADMIN,Offshore,L1,1
+SCJ,SAP Basis,Offshore,L1,1
+SCJ,CFS Shared Resource,Offshore,L3,1
+SCJ,PMO,Offshore,L1,1
+SCJ,Production Control,Onsite,L2,1
+SCJ,Security Assurance,Offshore,L2,4
+SCJ,Network PM (T&M),Onsite,L3,1
+SCJ,DB2,Offshore,L1,1
+SCJ,SAP Basis,Offshore,L2,7
+SCJ,CA IM,Offshore,L2,1
+SCJ,LTS - Manager,Onsite,L3,1
+SCJ,"Helpdesk, Cary",Onsite,L2,1
+SCJ,SAP Basis,Onsite,L3,1
+SCJ,EMS,Offshore,L2,4
+SCJ,Process Manager,Offshore,L3,1
+SCJ,SRB (T&M),Offshore,L1,2
+SCJ,CFS Shared Resource,Offshore,L2,2
+SCJ,MNS,Onsite,L3,1
+SCJ,DB2,Onsite,L3,1
+SCJ,ServiceDesk Manager,Offshore,L3,1
+SCJ,"Helpdesk, Poland",Onsite,L1,20
+SCJ,LAN Refresh,Offshore,L3,1
+SCJ,"Helpdesk, Noida",Offshore,L2,5
+SCJ,Production Control,Offshore,L2,1
+SCJ,"Helpdesk, Malaysia",Onsite,L1,13
+SCJ,"Helpdesk, Noida",Offshore,L1,19
+SCJ,Process,Offshore,L2,1
+SCJ,LTS,Offshore,L2,1
+SCJ,CA Nimsoft,Offshore,L2,2
+SCJ,LTS - Manager,Offshore,L3,1
+SCJ,SAP Basis,Offshore,L3,1
+SCJ,DB2,Offshore,L2,3
+SCJ,"Helpdesk, Poland",Onsite,L2,2
+SCJ,EMS,Offshore,L1,14
+SCJ,Exchange,Offshore,L3,1
+SCJ,DB2,Offshore,L3,1
+SCJ,MNS,Offshore,L2,6
+SCJ,Network SME (T&M),Onsite,L3,1
+SCJ,IMT Manager,Onsite,L3,1
+SCJ,Managed Authentication Services (T&M),Onsite,L3,1
+SCJ,PMO,Offshore,L2,2
+SCJ,LTS,Onsite,L3,1
+SCJ,"Helpdesk, Malaysia",Onsite,L2,1
+SCJ,Production Control,Offshore,L1,7
+SCJ,CA SOI,Offshore,L1,3
+SCJ,My SQL,Offshore,L1,1
+SCJ,Service Delivery Manager,Offshore,L4,2
+SCJ,CA Nimsoft,Offshore,L1,1
+SCJ,MNS,Offshore,L1,2
+SCJ,Security Assurance,Offshore,L1,2
+SCJ,SNOW ADMIN,Offshore,L2,1
+SCJ,MNS,Offshore,L3,3
+SCJ,SAP Security (T&M),Offshore,L3,1
+SCJ,Contract Compliance Manager,Offshore,L3,1
+SCJ,LTS,Onsite,L1,26
+SCJ,LTS,Onsite,L2,12

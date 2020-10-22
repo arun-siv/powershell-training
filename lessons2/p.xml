@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<viCredentials>
+  <version>2.0</version>
+  <passwordEntry>
+    <host>test2</host>
+    <username>root</username>
+    <password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4z3pWiCkKEKBje39olGqWQAAAAACAAAAAAADZgAAwAAAABAAAAD6MGZUByRo29wmUbom94dYAAAAAASAAACgAAAAEAAAAFeURjsy3H/6I4qO/6vtHkUQAAAAaVVfWoMmr5gRbvfzghawwBQAAAAMDZJCBqFiUlIvUwb4Y9he6aRWTQ==</password>
+  </passwordEntry>
+  <passwordEntry>
+    <host>test1</host>
+    <username>root</username>
+    <password>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA4z3pWiCkKEKBje39olGqWQAAAAACAAAAAAADZgAAwAAAABAAAABXmJuT/2RyP3ZFVmficm13AAAAAASAAACgAAAAEAAAAF7dLZVab+jFu/8zwSFXah8QAAAA6RAiXgivAqG47+bDLt8bAxQAAABNcSUaInOl5tL5GHTjrMk1PHS1cA==</password>
+  </passwordEntry>
+</viCredentials>
